@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+abhiveyra.sqlite3
+abhiveyra.sqlite3-shm
+abhiveyra.sqlite3-wal
+.env
+.venv/
